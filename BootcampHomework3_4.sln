@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampHomework3_4", "BootcampHomework3_4\BootcampHomework3_4.csproj", "{142D5D39-A997-471A-9307-8538C14F0FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampHomework3_4.Business", "BootcampHomework3_4.Business\BootcampHomework3_4.Business.csproj", "{1048DF82-F505-44A4-B755-95AAEF7E21F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampHomework3_4.DataAccess.Ef.Repositories", "BootcampHomework3_4.DataAccess.Ef.Repositories\BootcampHomework3_4.DataAccess.Ef.Repositories.csproj", "{E2190F3E-F3EA-4FFC-ACF8-79E9D23267F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampHomework3_4.DataAccess.EntityFramework", "BootcampHomewework3_4.DataAccess.EntityFramework\BootcampHomework3_4.DataAccess.EntityFramework.csproj", "{CD8A55B0-05D9-42C5-88BF-FBA3C3086A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampHomework3_4.Domain", "BootcampHomework3_4.Domain\BootcampHomework3_4.Domain.csproj", "{A219A789-B0EF-4851-A26B-5B16007E0047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142D5D39-A997-471A-9307-8538C14F0FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142D5D39-A997-471A-9307-8538C14F0FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142D5D39-A997-471A-9307-8538C14F0FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142D5D39-A997-471A-9307-8538C14F0FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1048DF82-F505-44A4-B755-95AAEF7E21F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1048DF82-F505-44A4-B755-95AAEF7E21F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1048DF82-F505-44A4-B755-95AAEF7E21F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1048DF82-F505-44A4-B755-95AAEF7E21F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2190F3E-F3EA-4FFC-ACF8-79E9D23267F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2190F3E-F3EA-4FFC-ACF8-79E9D23267F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2190F3E-F3EA-4FFC-ACF8-79E9D23267F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2190F3E-F3EA-4FFC-ACF8-79E9D23267F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8A55B0-05D9-42C5-88BF-FBA3C3086A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8A55B0-05D9-42C5-88BF-FBA3C3086A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8A55B0-05D9-42C5-88BF-FBA3C3086A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8A55B0-05D9-42C5-88BF-FBA3C3086A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A219A789-B0EF-4851-A26B-5B16007E0047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A219A789-B0EF-4851-A26B-5B16007E0047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A219A789-B0EF-4851-A26B-5B16007E0047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A219A789-B0EF-4851-A26B-5B16007E0047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26926A7-AA69-476B-A679-4B8E52E9DBC7}
+	EndGlobalSection
+EndGlobal

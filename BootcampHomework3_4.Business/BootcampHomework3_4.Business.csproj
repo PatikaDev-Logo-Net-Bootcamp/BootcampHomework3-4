@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BootcampHomewework3_4.DataAccess.EntityFramework\BootcampHomework3_4.DataAccess.EntityFramework.csproj" />
+    <ProjectReference Include="..\BootcampHomework3_4.DataAccess.Ef.Repositories\BootcampHomework3_4.DataAccess.Ef.Repositories.csproj" />
+    <ProjectReference Include="..\BootcampHomework3_4.Domain\BootcampHomework3_4.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
